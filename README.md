@@ -17,8 +17,8 @@ Both of these API keys are free, provided you create an account and choose the f
 
 Lastly, you will need to create a ".env.local" file with the following information:
 
-* REACT_APP_GOOGLE_MAPS_API_KEY="Insert Google Maps API Key here"
-* REACT_APP_YELP_API_KEY="Insert Yelp API Key here"
+* REACT_APP_GOOGLE_MAPS_API_KEY="Insert your Google Maps API Key here"
+* REACT_APP_YELP_API_KEY="Insert your Yelp API Key here"
 
 These are required for Food 4 You to run as intended
 
