@@ -7,10 +7,10 @@
 ## Note:
 
 **You will need to obtain a valid Google Maps API Key, instructions for obtaining one is linked here:
-(https://developers.google.com/maps/documentation/javascript/get-api-key)**
+- (https://developers.google.com/maps/documentation/javascript/get-api-key)**
 
 **You will also need to obtain a valid Yelp API Key, instructions for obtaining one is linked here:
-(https://www.yelp.com/developers/faq)**
+- (https://www.yelp.com/developers/faq)**
 
 **Both of these API keys are free, provided you create an account and choose the free trial**
 
